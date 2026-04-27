@@ -1,2 +1,2 @@
 # HackaTec2026-IoT-Robotics
-HackaTec2026
+Coming soon, Hackatec April 29th, 2026
